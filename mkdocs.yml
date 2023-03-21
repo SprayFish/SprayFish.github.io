@@ -7,9 +7,9 @@ site_description: 俞泉君的个人网站
 # [Navigtion]
 nav:
   - 博客:
-  - blog/index.md
+  - index.md
   - 2023/3:
-    - 0 - 嗨 :blog/2023/March/Mar_20.md
+    - 0.Hi :Mar_20.md
 
 
     
@@ -45,7 +45,7 @@ theme:
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
 ##repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # 右上角点击跳转的链接
-repo_name: SprayFish.github.io # 右上角的名字
+##repo_name: SprayFish.github.io # 右上角的名字
 ## [bottom-left corner]
 ## copyright: 杨希杰 CC-BY-4.0 # 左下角的版权声明
 ## [bottom-right corner]
@@ -90,18 +90,3 @@ extra_javascript:
 extra_css:
   - mkdocs/css/no-footer.css # 不使用底部的翻页
   - mkdocs/css/unordered-list-symbols.css # multiplt unordered list symbols
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-## yang-xijie.github.io/mkdocs.yml at main · Yang-Xijie/yang-xijie.github.io
