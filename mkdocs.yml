@@ -7,9 +7,9 @@ site_description: 俞泉君的个人网站
 # [Navigtion]
 nav:
   - 博客:
-  - index.md
-  - 2023/3:
-    - 0.Hi :Mar_20.md
+    - index.md
+    - 2023/3:
+      - 0.Hi :Mar_20.md
 
 
     
