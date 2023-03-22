@@ -1,18 +1,14 @@
 # [Info]
-site_name: 俞泉君的个人网站 # 左上角标题
-site_url: https://SprayFish.github.io
-site_author: 俞泉君
-site_description: 俞泉君的个人网站
+site_name: 杨希杰的个人网站 # 左上角标题
+site_url: https://yang-xijie.github.io
+site_author: 杨希杰
+site_description: 杨希杰的个人网站
 
 # [Navigtion]
 nav:
   - 博客:
-    - index.md
-    - 2023/3:
-      - 0 Hi :Mar_20.md
-
-
-    
+    - BLOG/index.md
+   
 
 # [UI]
 ## [top]
@@ -44,19 +40,19 @@ theme:
     repo: fontawesome/brands/github
 edit_uri: edit/main/docs # 编辑按钮跳转的链接
 ## [top-right corner]
-##repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # 右上角点击跳转的链接
-##repo_name: SprayFish.github.io # 右上角的名字
+repo_url: https://github.com/Yang-Xijie/yang-xijie.github.io # 右上角点击跳转的链接
+repo_name: yang-xijie.github.io # 右上角的名字
 ## [bottom-left corner]
-## copyright: 杨希杰 CC-BY-4.0 # 左下角的版权声明
+copyright: 杨希杰 CC-BY-4.0 # 左下角的版权声明
 ## [bottom-right corner]
-##extra:
-##  social: # icons
-##    - icon: fontawesome/brands/bilibili
-##      link: https://space.bilibili.com/24502827
-##      name: Bilibili | 我不是小杰 # 鼠标悬浮提示
-##    - icon: fontawesome/brands/github
-##      link: https://github.com/Yang-Xijie
-##      name: GitHub | Yang-Xijie
+extra:
+  social: # icons
+    - icon: fontawesome/brands/bilibili
+      link: https://space.bilibili.com/24502827
+      name: Bilibili | 我不是小杰 # 鼠标悬浮提示
+    - icon: fontawesome/brands/github
+      link: https://github.com/Yang-Xijie
+      name: GitHub | Yang-Xijie
 
 # [Extensions]
 plugins:
