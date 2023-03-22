@@ -7,7 +7,9 @@ site_description: 杨希杰的个人网站
 # [Navigtion]
 nav:
   - 博客:
-    - BLOG/index.md
+    - index.md
+  - 讲稿:
+    - Mar_20.md
    
 
 # [UI]
